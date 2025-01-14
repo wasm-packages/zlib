@@ -1,0 +1,5 @@
+packages:
+  - name: zlib-rs
+    version: 4ca72cd
+    artifacts:
+      - input: libz.a
